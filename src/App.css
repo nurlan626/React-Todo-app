@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    outline: none;
+}
+body {
+    background-color: rgb(70, 68, 68);
+}
+div {
+    margin: 0 auto;
+    color: rgb(0, 145, 255)
+
+}
+input{
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    height: 40px;
+}
+input:focus {
+    background-color: rgb(3, 130, 226);
+    color: white;
+    border: white;
+}
+
